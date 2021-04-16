@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'dcff94cdadccb650935a3d0d7bb3fe80e8001a10',
+    'reference' => 'bbc35dbf8013b43c83adb6e031a1de6855c8fa59',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -222,6 +222,15 @@
       array (
       ),
       'reference' => '8c3d0a3f6af734494ad8f6fbbee0ba92422859f3',
+    ),
+    'hardevine/shoppingcart' => 
+    array (
+      'pretty_version' => '2.9',
+      'version' => '2.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '2fc6eff895ae6d94978125f6bc65aceadc4873c5',
     ),
     'illuminate/auth' => 
     array (
@@ -499,7 +508,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'dcff94cdadccb650935a3d0d7bb3fe80e8001a10',
+      'reference' => 'bbc35dbf8013b43c83adb6e031a1de6855c8fa59',
     ),
     'laravel/sail' => 
     array (
